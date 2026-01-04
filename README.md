@@ -9,7 +9,7 @@
 - **Raul Sebastien Baldemoro**
 - **Zeandarra Gaile Giva**
 - **Loryne Ritcel Laron**
-- **Julian [Your Last Name]**
+- **Julian Gabriel Ramirez**
 
 ---
 
