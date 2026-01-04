@@ -1,0 +1,15 @@
+# Node.js (React)
+node_modules/
+dist/
+.env
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.venv/
+env/
+venv/
+
+# Large Data Files 
