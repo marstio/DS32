@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Agos",
+    "pop": 1019,
+    "rainfall": 3220.5,
+    "description": "Avg Elev: 27.7m, Rainfall: 3220mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Alnay",
+    "pop": 1217,
+    "rainfall": 3307.9,
+    "description": "Avg Elev: 59.4m, Rainfall: 3308mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Alomon",
+    "pop": 765,
+    "rainfall": 3197.1,
+    "description": "Avg Elev: 19.6m, Rainfall: 3197mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Amogues",
+    "pop": 352,
+    "rainfall": 3573.0,
+    "description": "Avg Elev: 180.0m, Rainfall: 3573mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Anopol",
+    "pop": 658,
+    "rainfall": 3603.7,
+    "description": "Avg Elev: 193.0m, Rainfall: 3604mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Apad",
+    "pop": 323,
+    "rainfall": 3161.4,
+    "description": "Avg Elev: 36.9m, Rainfall: 3161mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Balaba",
+    "pop": 363,
+    "rainfall": 3573.0,
+    "description": "Avg Elev: 278.9m, Rainfall: 3573mm. Steep terrain, high landslide risk."
+  },
+  {
+    "name": "Balangibang",
+    "pop": 739,
+    "rainfall": 3167.9,
+    "description": "Avg Elev: 14.2m, Rainfall: 3168mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Balinad",
+    "pop": 481,
+    "rainfall": 3509.0,
+    "description": "Avg Elev: 180.1m, Rainfall: 3509mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Basud",
+    "pop": 3171,
+    "rainfall": 3256.5,
+    "description": "Avg Elev: 25.1m, Rainfall: 3256mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Buyo",
+    "pop": 515,
+    "rainfall": 3410.7,
+    "description": "Avg Elev: 174.4m, Rainfall: 3411mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Centrooccidental",
+    "pop": 1723,
+    "rainfall": 3179.2,
+    "description": "Avg Elev: 20.8m, Rainfall: 3179mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Centrooriental",
+    "pop": 7095,
+    "rainfall": 3197.1,
+    "description": "Avg Elev: 24.6m, Rainfall: 3197mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Cepres",
+    "pop": 715,
+    "rainfall": 3410.7,
+    "description": "Avg Elev: 162.8m, Rainfall: 3411mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Cotmon",
+    "pop": 240,
+    "rainfall": 3573.0,
+    "description": "Avg Elev: 390.2m, Rainfall: 3573mm. Steep terrain, high landslide risk."
+  },
+  {
+    "name": "Cotnogan",
+    "pop": 526,
+    "rainfall": 3123.6,
+    "description": "Avg Elev: 39.7m, Rainfall: 3124mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Danao",
+    "pop": 311,
+    "rainfall": 3782.7,
+    "description": "Avg Elev: 335.6m, Rainfall: 3783mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Gabon",
+    "pop": 4481,
+    "rainfall": 3271.3,
+    "description": "Avg Elev: 50.1m, Rainfall: 3271mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Gamot",
+    "pop": 438,
+    "rainfall": 3286.1,
+    "description": "Avg Elev: 129.8m, Rainfall: 3286mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Itaran",
+    "pop": 668,
+    "rainfall": 3286.1,
+    "description": "Avg Elev: 109.3m, Rainfall: 3286mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Kinale",
+    "pop": 2048,
+    "rainfall": 3179.2,
+    "description": "Avg Elev: 17.9m, Rainfall: 3179mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Kinuartelan",
+    "pop": 919,
+    "rainfall": 3161.4,
+    "description": "Avg Elev: 136.2m, Rainfall: 3161mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Lamedalla",
+    "pop": 221,
+    "rainfall": 3142.4,
+    "description": "Avg Elev: 107.6m, Rainfall: 3142mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Lanigay",
+    "pop": 919,
+    "rainfall": 3179.2,
+    "description": "Avg Elev: 52.9m, Rainfall: 3179mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Lapurisima",
+    "pop": 150,
+    "rainfall": 3112.6,
+    "description": "Avg Elev: 62.0m, Rainfall: 3113mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Lidong",
+    "pop": 1207,
+    "rainfall": 3424.7,
+    "description": "Avg Elev: 116.2m, Rainfall: 3425mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Lourdes",
+    "pop": 162,
+    "rainfall": 3142.4,
+    "description": "Avg Elev: 101.6m, Rainfall: 3142mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Magpanambo",
+    "pop": 462,
+    "rainfall": 3123.6,
+    "description": "Avg Elev: 49.9m, Rainfall: 3124mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Magurang",
+    "pop": 3286,
+    "rainfall": 3307.9,
+    "description": "Avg Elev: 55.8m, Rainfall: 3308mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Matacon",
+    "pop": 1466,
+    "rainfall": 3145.2,
+    "description": "Avg Elev: 29.4m, Rainfall: 3145mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Maynaga",
+    "pop": 524,
+    "rainfall": 3410.7,
+    "description": "Avg Elev: 133.3m, Rainfall: 3411mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Maysua",
+    "pop": 173,
+    "rainfall": 3782.7,
+    "description": "Avg Elev: 416.4m, Rainfall: 3783mm. Steep terrain, high landslide risk."
+  },
+  {
+    "name": "Mendez",
+    "pop": 649,
+    "rainfall": 3315.8,
+    "description": "Avg Elev: 36.5m, Rainfall: 3316mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Napo",
+    "pop": 986,
+    "rainfall": 3363.3,
+    "description": "Avg Elev: 67.0m, Rainfall: 3363mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Pinagdapugan",
+    "pop": 491,
+    "rainfall": 3410.7,
+    "description": "Avg Elev: 223.1m, Rainfall: 3411mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Pintor",
+    "pop": 511,
+    "rainfall": 3286.1,
+    "description": "Avg Elev: 167.3m, Rainfall: 3286mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Ponso",
+    "pop": 1671,
+    "rainfall": 3363.3,
+    "description": "Avg Elev: 52.3m, Rainfall: 3363mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Salvacion",
+    "pop": 615,
+    "rainfall": 3123.6,
+    "description": "Avg Elev: 46.6m, Rainfall: 3124mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Sanroque",
+    "pop": 534,
+    "rainfall": 3153.3,
+    "description": "Avg Elev: 102.2m, Rainfall: 3153mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Santicon",
+    "pop": 739,
+    "rainfall": 3153.3,
+    "description": "Avg Elev: 41.4m, Rainfall: 3153mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Stacruz",
+    "pop": 164,
+    "rainfall": 3363.3,
+    "description": "Avg Elev: 196.8m, Rainfall: 3363mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Stateresita",
+    "pop": 263,
+    "rainfall": 3133.0,
+    "description": "Avg Elev: 74.7m, Rainfall: 3133mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Sugcad",
+    "pop": 1033,
+    "rainfall": 3256.4,
+    "description": "Avg Elev: 70.5m, Rainfall: 3256mm. Moderate terrain characteristics."
+  },
+  {
+    "name": "Ubaliw",
+    "pop": 1594,
+    "rainfall": 3197.1,
+    "description": "Avg Elev: 22.5m, Rainfall: 3197mm. Moderate terrain characteristics."
+  }
+]
