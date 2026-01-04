@@ -1,9 +1,3 @@
-This is a fantastic and highly professional draft, Julian. It clearly outlines the technical complexity of your Data Science thesis while maintaining a structure that a panel can easily navigate.
-
-I have refined the content to emphasize the **team identity (DS32)**, added the **live demo link**, integrated the **QR code**, and polished the technical descriptions to highlight your specialization.
-
----
-
 # DS32: Flood Susceptibility Modeling for Polangui
 
 **University of Santo Tomas | College of Information and Computing Sciences**
